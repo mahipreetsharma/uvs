@@ -1,0 +1,6 @@
+routes/__pycache__/
+__pycache__/
+config.pyc
+config.cpython-313.pyc
+config.cpython-314.pyc
+.env
